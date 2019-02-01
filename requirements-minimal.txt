@@ -1,3 +1,4 @@
 pyOpenSSL
+service_identity
 slackclient
 Twisted
